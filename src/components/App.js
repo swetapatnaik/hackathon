@@ -10,10 +10,10 @@ const App = () => (
             <Header />
             
             <main>
-            <Switch>
+            {/* <Switch>
                 <Redirect from="/home" to="/" />
                 <Route exact path = "/" component = {Home} />
-            </Switch>
+            </Switch> */}
             </main>
         </Fragment>
     </BrowserRouter>

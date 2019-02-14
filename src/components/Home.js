@@ -8,6 +8,7 @@ class Home extends Component {
             <Fade in={true}>
             <Paper>
                 <h1>My first React App!</h1>
+                
             </Paper>
             </Fade>
         );
