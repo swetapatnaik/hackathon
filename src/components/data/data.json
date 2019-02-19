@@ -1,0 +1,2537 @@
+[
+    {
+      "locationName":"Bangalore",
+      "sites":[
+        {
+          "siteName":"BDC 01",
+          "building":[
+            {
+              "buildingName":"Tower A",                      
+              "floor":[
+                {
+                  "floorName":"Floor 1",
+                  "bay":[
+                    {
+                      "bayName":"Bay 01",
+                      "details":
+                        {
+                          "seats" :"94",
+                          "startSeat": 100,
+                          "endSeat": 120,
+                          "project": "XD Studio",
+                          "captions": 3,
+                          "access": "Open"
+                        }
+                    },
+                    {
+                      "bayName":"Bay 02",
+                      "details":
+                        {
+                          "seats" :"34",
+                          "startSeat": 200,
+                          "endSeat": 220,
+                          "project": "OUA",
+                          "captions": 5,
+                          "access": "Closed"
+                        }
+                      
+                    }
+                  ]
+                },
+                {
+                    "floorName":"Floor 2",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"94",
+                            "startSeat": 10,
+                            "endSeat": 30,
+                            "project": "CMH",
+                            "captions": 4,
+                            "access": "Closed"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"34",
+                            "startSeat": 40,
+                            "endSeat": 60,
+                            "project": "CA",
+                            "captions": 3,
+                            "access": "Open"
+                          }
+                        
+                      }
+                    ]
+                },
+                {
+                    "floorName":"Floor 3",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"94",
+                            "startSeat": 50,
+                            "endSeat": 70,
+                            "project": "PSE",
+                            "captions": 10,
+                            "access": "Open"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"34",
+                            "startSeat": 80,
+                            "endSeat": 110,
+                            "project": "Showcase",
+                            "captions": 3,
+                            "access": "Closed"
+                          }
+                        
+                      }
+                    ]
+                  }
+              ]
+            },
+            {
+                "buildingName":"Tower B",                      
+                "floor":[
+                  {
+                    "floorName":"Floor 1",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"90",
+                            "startSeat": 115,
+                            "endSeat": 135,
+                            "project": "KLP",
+                            "captions": 9,
+                            "access": "Open"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"45",
+                            "startSeat": 150,
+                            "endSeat": 180,
+                            "project": "TR",
+                            "captions": 6,
+                            "access": "Open"
+                          }
+                        
+                      }
+                    ]
+                  },
+                  {
+                      "floorName":"Floor 2",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 220,
+                              "endSeat": 240,
+                              "project": "Avanade",
+                              "captions": 7,
+                              "access": "Closed"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 250,
+                              "endSeat": 280,
+                              "project": "Thames",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                  },
+                  {
+                      "floorName":"Floor 3",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 300,
+                              "endSeat": 320,
+                              "project": "Pfizer",
+                              "captions": 10,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 320,
+                              "endSeat": 340,
+                              "project": "Automation",
+                              "captions": 3,
+                              "access": "Closed"
+                            }
+                          
+                        }
+                      ]
+                    }
+                ]
+            },
+            {
+                "buildingName":"Tower C",                      
+                "floor":[
+                  {
+                    "floorName":"Floor 1",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"90",
+                            "startSeat": 340,
+                            "endSeat": 360,
+                            "project": "JPMC",
+                            "captions": 1,
+                            "access": "Open"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"45",
+                            "startSeat": 380,
+                            "endSeat": 410,
+                            "project": "Exxon",
+                            "captions": 3,
+                            "access": "Closed"
+                          }
+                        
+                      }
+                    ]
+                  },
+                  {
+                      "floorName":"Floor 2",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                  },
+                  {
+                      "floorName":"Floor 3",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    }
+                ]
+            }
+          ]
+        },
+        {
+            "siteName":"BDC 02",
+            "building":[
+              {
+                "buildingName":"Tower D",                      
+                "floor":[
+                  {
+                    "floorName":"Floor 11",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"94",
+                            "startSeat": 100,
+                            "endSeat": 120,
+                            "project": "XD Studio",
+                            "captions": 3,
+                            "access": "Open"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"34",
+                            "startSeat": 100,
+                            "endSeat": 120,
+                            "project": "XD Studio",
+                            "captions": 3,
+                            "access": "Open"
+                          }
+                        
+                      }
+                    ]
+                  },
+                  {
+                      "floorName":"Floor 12",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                  },
+                  {
+                      "floorName":"Floor 13",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    }
+                ]
+              },
+              {
+                  "buildingName":"Tower E",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              },
+              {
+                  "buildingName":"Tower F",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Closed"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Closed"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              }
+            ]
+        },
+        {
+            "siteName":"BDC 03",
+            "building":[
+              {
+                "buildingName":"Tower A",                      
+                "floor":[
+                  {
+                    "floorName":"Floor 1",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"52"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"64"
+                          }
+                        
+                      }
+                    ]
+                  },
+                  {
+                      "floorName":"Floor 2",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34"
+                            }
+                          
+                        }
+                      ]
+                  },
+                  {
+                      "floorName":"Floor 3",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34"
+                            }
+                          
+                        }
+                      ]
+                    }
+                ]
+              },
+              {
+                  "buildingName":"Tower B",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              },
+              {
+                  "buildingName":"Tower C",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              }
+            ]
+        }
+      ]
+    },
+    {
+        "locationName":"Chennai",
+        "sites":[
+          {
+            "siteName":"CDC 01",
+            "building":[
+              {
+                "buildingName":"Tower A",                      
+                "floor":[
+                  {
+                    "floorName":"Floor 1",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"94",
+                            "startSeat": 100,
+                            "endSeat": 120,
+                            "project": "XD Studio",
+                            "captions": 3,
+                            "access": "Closed"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"34",
+                            "startSeat": 100,
+                            "endSeat": 120,
+                            "project": "XD Studio",
+                            "captions": 3,
+                            "access": "Open"
+                          }
+                        
+                      }
+                    ]
+                  },
+                  {
+                      "floorName":"Floor 2",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                  },
+                  {
+                      "floorName":"Floor 3",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    }
+                ]
+              },
+              {
+                  "buildingName":"Tower B",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              },
+              {
+                  "buildingName":"Tower C",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              }
+            ]
+          },
+          {
+              "siteName":"CDC 02",
+              "building":[
+                {
+                  "buildingName":"Tower A",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+                },
+                {
+                    "buildingName":"Tower B",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                },
+                {
+                    "buildingName":"Tower C",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                }
+              ]
+          },
+          {
+              "siteName":"CDC 03",
+              "building":[
+                {
+                  "buildingName":"Tower A",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"52",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"64",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+                },
+                {
+                    "buildingName":"Tower B",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                },
+                {
+                    "buildingName":"Tower C",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                }
+              ]
+          }
+        ]
+    },
+    {
+        "locationName":"Mumbai",
+        "sites":[
+          {
+            "siteName":"MDC 01",
+            "building":[
+              {
+                "buildingName":"Tower A",                      
+                "floor":[
+                  {
+                    "floorName":"Floor 1",
+                    "bay":[
+                      {
+                        "bayName":"Bay 01",
+                        "details":
+                          {
+                            "seats" :"55",
+                            "startSeat": 100,
+                            "endSeat": 120,
+                            "project": "XD Studio",
+                            "captions": 3,
+                            "access": "Open"
+                          }
+                      },
+                      {
+                        "bayName":"Bay 02",
+                        "details":
+                          {
+                            "seats" :"80",
+                            "startSeat": 100,
+                            "endSeat": 120,
+                            "project": "XD Studio",
+                            "captions": 3,
+                            "access": "Open"
+                          }
+                        
+                      }
+                    ]
+                  },
+                  {
+                      "floorName":"Floor 2",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"48",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"75",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                  },
+                  {
+                      "floorName":"Floor 3",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"40",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"35",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    }
+                ]
+              },
+              {
+                  "buildingName":"Tower B",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"70",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"40",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"47",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"50",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              },
+              {
+                  "buildingName":"Tower C",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"90",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"45",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+              }
+            ]
+          },
+          {
+              "siteName":"MDC 02",
+              "building":[
+                {
+                  "buildingName":"Tower A",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"94",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"34",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+                },
+                {
+                    "buildingName":"Tower B",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                },
+                {
+                    "buildingName":"Tower C",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                }
+              ]
+          },
+          {
+              "siteName":"MDC 03",
+              "building":[
+                {
+                  "buildingName":"Tower A",                      
+                  "floor":[
+                    {
+                      "floorName":"Floor 1",
+                      "bay":[
+                        {
+                          "bayName":"Bay 01",
+                          "details":
+                            {
+                              "seats" :"52",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                        },
+                        {
+                          "bayName":"Bay 02",
+                          "details":
+                            {
+                              "seats" :"64",
+                              "startSeat": 100,
+                              "endSeat": 120,
+                              "project": "XD Studio",
+                              "captions": 3,
+                              "access": "Open"
+                            }
+                          
+                        }
+                      ]
+                    },
+                    {
+                        "floorName":"Floor 2",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                    },
+                    {
+                        "floorName":"Floor 3",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"94",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"34",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      }
+                  ]
+                },
+                {
+                    "buildingName":"Tower B",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                },
+                {
+                    "buildingName":"Tower C",                      
+                    "floor":[
+                      {
+                        "floorName":"Floor 1",
+                        "bay":[
+                          {
+                            "bayName":"Bay 01",
+                            "details":
+                              {
+                                "seats" :"90",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                          },
+                          {
+                            "bayName":"Bay 02",
+                            "details":
+                              {
+                                "seats" :"45",
+                                "startSeat": 100,
+                                "endSeat": 120,
+                                "project": "XD Studio",
+                                "captions": 3,
+                                "access": "Open"
+                              }
+                            
+                          }
+                        ]
+                      },
+                      {
+                          "floorName":"Floor 2",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                      },
+                      {
+                          "floorName":"Floor 3",
+                          "bay":[
+                            {
+                              "bayName":"Bay 01",
+                              "details":
+                                {
+                                  "seats" :"94",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                            },
+                            {
+                              "bayName":"Bay 02",
+                              "details":
+                                {
+                                  "seats" :"34",
+                                  "startSeat": 100,
+                                  "endSeat": 120,
+                                  "project": "XD Studio",
+                                  "captions": 3,
+                                  "access": "Open"
+                                }
+                              
+                            }
+                          ]
+                        }
+                    ]
+                }
+              ]
+          }
+        ]
+    }      
+]
